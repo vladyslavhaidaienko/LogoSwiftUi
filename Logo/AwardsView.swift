@@ -15,7 +15,7 @@ struct AwardsView: View {
                     .ignoresSafeArea()
                 VStack {
                     ScrollView {
-                        LogoVH()
+                        LogoVH()  // мои инициалы Vladyslav Haidaienko - VH
                             .frame(width: 200, height: 200)
                             .padding(.bottom, 30)
 //                        Stop()

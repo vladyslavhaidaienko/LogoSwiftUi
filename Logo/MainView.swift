@@ -24,7 +24,7 @@ struct MainView: View {
             
             Spacer()
             if showAward {
-                LogoVH()
+                LogoVH()       // мои инициалы Vladyslav Haidaienko - VH
                     .frame(width: 200, height: 200)
                     .transition(.myAnimation)
             }
